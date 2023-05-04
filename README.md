@@ -12,7 +12,7 @@ You may easily:
 
 Below is instruction how to use this application.
 
-![howToUse](images/Animation2.gif)
+![howToUse](public/Animation2.gif)
 
 ## Used technologies
 - HTML
